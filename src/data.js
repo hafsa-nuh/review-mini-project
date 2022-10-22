@@ -34,7 +34,7 @@ const reviews = [
     job: "back-end developer",
     image:
       "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
-    text: "A backend developer is responsible for writing backend codes of any website and how is it going to communicate when the user will trigger any particular action. Besides, they take care of the whole wireframe of the website, its architecture, coding, scripting, and database accessibility",
+    text: "A backend developer is responsible for writing backend codes of any website and how is it going to communicate when the user will trigger any particular action. Besides, they take care of the whole wireframe of the website, its architecture",
   },
 ];
 
